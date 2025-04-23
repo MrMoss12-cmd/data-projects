@@ -1,7 +1,6 @@
 # ⚙️ Data Projects
 
 Este repositorio centraliza el acceso a mis Projectos de Datos, 
----
 
 ## 🗂️ COVID Dashboard
 
